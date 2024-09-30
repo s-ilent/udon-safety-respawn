@@ -1,0 +1,16 @@
+{
+  "name": "s-ilent.s-ilent.safety-respawn",
+  "displayName": "Safety Respawn",
+  "version": "0.0.1",
+  "description": "A simple Navmesh-based system for automatically respawning the player if they fall out of bounds.",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.7.2-beta.2"
+  },
+  "author": {
+    "name": "Silent",
+    "email": "silent@noemail.xyz"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+}

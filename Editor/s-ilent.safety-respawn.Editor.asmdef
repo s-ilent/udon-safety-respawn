@@ -1,0 +1,19 @@
+{
+    "name": "s-ilent.safety-respawn.Editor",
+    "rootNamespace": "",
+    "references": [
+        "s-ilent.safety-respawn",
+        "UdonSharp.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
